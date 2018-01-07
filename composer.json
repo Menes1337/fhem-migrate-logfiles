@@ -1,0 +1,18 @@
+{
+    "name": "menes1337/fhem-migrate-logfiles",
+    "description": "FHEM migration script for log files",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oliver Müller",
+            "email": "oliver+packagist@ebuuk.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FhemMigrateLogfiles\\": "src/",
+            "tests\\": "tests/"
+        }
+    }
+}
