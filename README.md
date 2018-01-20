@@ -1,4 +1,4 @@
-#FHEM Migrate log files
+# FHEM Migrate log files
 
 This is a tool I created to migrate my text FHEM log files to a MySQL database.
 
